@@ -39,3 +39,6 @@ bien hecho
 
 her ist hier
 él está acá
+
+Das stimmtˇ
+Eso es verdad.
