@@ -45,3 +45,6 @@ Eso es verdad.
 
 verstanden
 entendido. (roger that)
+
+sehr gut
+muy bien
