@@ -23,3 +23,7 @@
 
 * Tut mir leid
 * Lo siento
+
+Ja, natürlich
+Si, por supuesto
+Si, naturalmente
