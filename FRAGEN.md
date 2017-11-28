@@ -9,3 +9,9 @@ Qué pasa?
 
 Sind sie sicher?
 Estás seguro?
+
+Warum so viel?
+Por qué tanto?
+
+Haben sie so viel?
+Tienen tanto ?
