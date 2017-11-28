@@ -27,3 +27,15 @@
 Ja, natürlich
 Si, por supuesto
 Si, naturalmente
+
+natürlich nicht
+Por supuesto que no
+
+Niemals
+nunca
+
+gut gemacht
+bien hecho
+
+her ist hier
+él está acá
