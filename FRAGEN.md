@@ -15,3 +15,6 @@ Por qué tanto?
 
 Haben sie so viel?
 Tienen tanto ?
+
+Möchten sie kaffee
+Quiere cafe?
