@@ -42,3 +42,6 @@ her ist hier
 
 Das stimmtˇ
 Eso es verdad.
+
+verstanden
+entendido. (roger that)
