@@ -6,3 +6,6 @@ Dónde está el baño?
 
 Was ist?
 Qué pasa?
+
+Sind sie sicher?
+Estás seguro?
