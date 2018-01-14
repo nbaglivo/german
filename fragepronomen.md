@@ -1,4 +1,4 @@
-# Fragepronomen _Los pronombres interrogticos_
+# Fragepronomen _Los pronombres interrogativos_
 
 ## **Wer?** _Quién?_
 
@@ -9,14 +9,14 @@
 | **Wer** heisst Meier                        | Quién se llama Meier?                               |
 | **Wer** sind die Leute                      | Quienes son estas personas?                         |
 
-Con **wer?** se pregunta por la identidad de una persona, sea masculina o femenina. En alemán no se distingue entre singuklar y  plural. **wer?** correponde a _quién?_ y a _quienes?_ 
+Con **wer?** se pregunta por la identidad de una persona, sea masculina o femenina. En alemán no se distingue entre singular y  plural. **wer?** correponde a _quién?_ y a _quienes?_ 
 
 ## **Was?** _Qué?_
 
 | Deutsch                                     | Español                                             |
 | --------------------------------------------|-----------------------------------------------------|
-| **Was** studiente Monika                    | Qué estudia Monika ?                                |
-| **Was** passt zusammen?                     | Qué corresponde                                     |
+| **Was** studiert Monika                     | Qué estudia Monika ?                                |
+| **Was** passt zusammen?                     | Qué corresponde ?                                   |
 
 Con **was?** se pregunta por objetos, situaciones o circunstancias
 
