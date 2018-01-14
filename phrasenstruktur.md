@@ -28,7 +28,7 @@
 * El verbo está, igual que en la oración enunciativa, en segunda posición y el sujeto en tercer lugar.
 
 
-### Sarzfrage (pregunta con pronombre interrogativo)
+### Sarzfrage (pregunta)
 | Vorfeld     | Verb           | Subjekt      | Angabe    | Ergänzung       |
 |-------------|----------------|--------------|-----------|-----------------|
 |             | Wohnen         | Sie          |           | In München?     |
