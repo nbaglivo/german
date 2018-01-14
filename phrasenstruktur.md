@@ -1,4 +1,4 @@
-## Phrasenstruktur (La colocación en la grase alemana)
+## Phrasenstruktur (La colocación en la frase alemana)
 
 ### Aussagesatz (oración enunciativa)
 | Vorfeld          | Verb           | Subjekt      | Angabe    | Ergänzung  |
