@@ -1,7 +1,7 @@
 Antworten
 =========
 
-| Tables                   | Spanisch        |
+| Deutsch                  | Spanisch        |
 |--------------------------|-----------------|
 | Ich brauche es nicht     | No lo necesito  |
 | Ich weiss es nicth       | No lo sé        |
