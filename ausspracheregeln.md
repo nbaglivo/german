@@ -24,7 +24,7 @@
 ## Sp, St
 
 * La **s** se pronuncia como **sch**.
-  * spatër => schpata
+  * spatër => schpeta
   
 ## Ei
 
