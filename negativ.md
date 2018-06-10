@@ -14,5 +14,5 @@
 
 | Deutsch                 | Spanisch                 | Biespiel (_ejemplo_)             |
 |-------------------------|--------------------------|----------------------------------|
-| hat kein <sustantivo>   | no tiene <sustantivo>    | Der Bauer ist **hat kein** Pferd |
+| hat kein __sustantivo__ | no tiene __sustantivo__  | Der Bauer ist **hat kein** Pferd |
 | Ich nicht weiss         | no sé                    | Ich weiss es **nicht**           |
