@@ -20,7 +20,7 @@
 | ein Name              | Name**n**          |
 | eine Freundin         | Freundin**nen**    |
 | ein Foto              | Foto**s**          |
-| eine Stadt            | S**ä**dt**e**      |
+| eine Stadt            | St**ä**dt**e**     |
 | eine Grossmutter      | Grossm**ü**tter    |
 | ein Mann              | M**ä**nn**er**     |
 | eine Frau             | Frau**en**         |
